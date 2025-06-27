@@ -10,7 +10,7 @@ namespace GitTestRepo
     {
         public int Add(var x,var y)
         {
-            return x + y;
+            return x * y;
         }
     }
 }
