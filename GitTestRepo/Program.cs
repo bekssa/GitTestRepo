@@ -11,6 +11,7 @@ namespace GitTestRepo
         static void Main(string[] args)
         {
             //Line was added in Github
+            //Message from VS 2022
         }
     }
 }
