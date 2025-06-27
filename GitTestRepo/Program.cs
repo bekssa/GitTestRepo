@@ -13,6 +13,8 @@ namespace GitTestRepo
             //Line was added in Github
             //Message from VS 2022
             //Sec Mess
+
+            //Feature 1 message
         }
     }
 }
