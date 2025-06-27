@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace GitTestRepo
 {
-    internal class Feature1
+    public class Feature1
     {
+        public int Add(int x,int y)
+        {
+            return x + y;
+        }
     }
 }
