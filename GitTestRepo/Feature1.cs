@@ -8,7 +8,7 @@ namespace GitTestRepo
 {
     public class Feature1
     {
-        public int Add(int x,int y)
+        public int Add(var x,var y)
         {
             return x + y;
         }
