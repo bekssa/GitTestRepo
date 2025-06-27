@@ -10,7 +10,7 @@ namespace GitTestRepo
     {
         static void Main(string[] args)
         {
-            
+            //Line was added in Github
         }
     }
 }
